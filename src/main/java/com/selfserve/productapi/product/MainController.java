@@ -35,7 +35,7 @@ public class MainController {
 
 	@RequestMapping("/product/test")
 	public String defaultResponse() {
-		return "Product Microservice is up";
+		return "Product Microservice is up and running";
 	}
 	
 
