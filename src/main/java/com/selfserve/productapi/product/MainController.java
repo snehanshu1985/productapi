@@ -35,7 +35,7 @@ public class MainController {
 
 	@RequestMapping("/product/test")
 	public String defaultResponse() {
-		return "Product Microservice running from Arya branch";
+		return "Service is up and running. Enjoy the pipeline.";
 	}
 	
 
